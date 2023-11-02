@@ -9,5 +9,4 @@ a 2D game developed by FZU students
 4.江煜豪
 5.毕致远
 6.吴宏佑
-
 7.黄安妮
